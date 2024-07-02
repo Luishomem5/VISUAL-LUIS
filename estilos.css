@@ -1,0 +1,19 @@
+@font-face{
+    font-family: jester;
+    src:url(Jester.ttf);
+
+}
+    body{ color: rgb(19, 102, 170);
+    background-color: rgb(5, 146, 92);
+    font-family: jester; background-image: url(arvore.webp); background-repeat: no-repeat; background-size: cover; background-attachment: fixed;
+ }
+
+    p{font-family: roboto, Playwrite USA Modern;
+        line-height: 40px; color:blue
+
+}
+
+h1,h3{
+    color:#6e0707; background-color: cyan;
+}
+
